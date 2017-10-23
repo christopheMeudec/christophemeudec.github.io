@@ -1,0 +1,29 @@
+
+title: Christophe Meudec - Mon CV en ligne
+url: 'http://christophemeudec.com'
+baseurl: '/resume' #change it according to your repository name
+
+
+# Enable one of these styles by removing #
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+
+
+
+#Profile information
+name: Christophe M
+tagline: Développeur .Net, DevOps, Architecte cloud 
+pic: christophe-meudec.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+#sidebar links
+email: contact@christophemeudec.com
+phone: 
+website: christophemeudec.com
+linkedin: christophe-meudec-306a8873
+github: christophemeudec
+twitter: '@cMeudec'
+
